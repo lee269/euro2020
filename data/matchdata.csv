@@ -1,0 +1,103 @@
+MatchNumber,RoundNumber,Date,Location,Group,value,goals,penalties,ycards,rcards
+1,1,11/06/2021 20:00,Olimpico in Rome,Group A,Turkey,NA,NA,NA,NA
+1,1,11/06/2021 20:00,Olimpico in Rome,Group A,Italy,NA,NA,NA,NA
+2,1,12/06/2021 14:00,Baki Olimpiya Stadionu,Group A,Wales,NA,NA,NA,NA
+2,1,12/06/2021 14:00,Baki Olimpiya Stadionu,Group A,Switzerland,NA,NA,NA,NA
+3,1,12/06/2021 17:00,Parken,Group B,Denmark,NA,NA,NA,NA
+3,1,12/06/2021 17:00,Parken,Group B,Finland,NA,NA,NA,NA
+4,1,12/06/2021 20:00,Saint Petersburg Stadium,Group B,Belgium,NA,NA,NA,NA
+4,1,12/06/2021 20:00,Saint Petersburg Stadium,Group B,Russia,NA,NA,NA,NA
+5,1,13/06/2021 14:00,Wembley Stadium,Group D,England,NA,NA,NA,NA
+5,1,13/06/2021 14:00,Wembley Stadium,Group D,Croatia,NA,NA,NA,NA
+6,1,13/06/2021 17:00,Arena Nationala,Group C,Austria,NA,NA,NA,NA
+6,1,13/06/2021 17:00,Arena Nationala,Group C,North Macedonia,NA,NA,NA,NA
+7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,Netherlands,NA,NA,NA,NA
+7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,Ukraine,NA,NA,NA,NA
+8,1,14/06/2021 14:00,Hampden Park,Group D,Scotland,NA,NA,NA,NA
+8,1,14/06/2021 14:00,Hampden Park,Group D,Czech Republic,NA,NA,NA,NA
+9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,Poland,NA,NA,NA,NA
+9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,Slovakia,NA,NA,NA,NA
+10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,Spain,NA,NA,NA,NA
+10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,Sweden,NA,NA,NA,NA
+11,1,15/06/2021 17:00,Puskás Aréna,Group F,Hungary,NA,NA,NA,NA
+11,1,15/06/2021 17:00,Puskás Aréna,Group F,Portugal,NA,NA,NA,NA
+12,1,15/06/2021 20:00,Fußball Arena München,Group F,France,NA,NA,NA,NA
+12,1,15/06/2021 20:00,Fußball Arena München,Group F,Germany,NA,NA,NA,NA
+13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,Finland,NA,NA,NA,NA
+13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,Russia,NA,NA,NA,NA
+14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,Turkey,NA,NA,NA,NA
+14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,Wales,NA,NA,NA,NA
+15,2,16/06/2021 20:00,Olimpico in Rome,Group A,Italy,NA,NA,NA,NA
+15,2,16/06/2021 20:00,Olimpico in Rome,Group A,Switzerland,NA,NA,NA,NA
+16,2,17/06/2021 14:00,Arena Nationala,Group C,Ukraine,NA,NA,NA,NA
+16,2,17/06/2021 14:00,Arena Nationala,Group C,North Macedonia,NA,NA,NA,NA
+17,2,17/06/2021 17:00,Parken,Group B,Denmark,NA,NA,NA,NA
+17,2,17/06/2021 17:00,Parken,Group B,Belgium,NA,NA,NA,NA
+18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,Netherlands,NA,NA,NA,NA
+18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,Austria,NA,NA,NA,NA
+19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,Sweden,NA,NA,NA,NA
+19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,Slovakia,NA,NA,NA,NA
+20,2,18/06/2021 17:00,Hampden Park,Group D,Croatia,NA,NA,NA,NA
+20,2,18/06/2021 17:00,Hampden Park,Group D,Czech Republic,NA,NA,NA,NA
+21,2,18/06/2021 20:00,Wembley Stadium,Group D,England,NA,NA,NA,NA
+21,2,18/06/2021 20:00,Wembley Stadium,Group D,Scotland,NA,NA,NA,NA
+22,2,19/06/2021 14:00,Puskás Aréna,Group F,Hungary,NA,NA,NA,NA
+22,2,19/06/2021 14:00,Puskás Aréna,Group F,France,NA,NA,NA,NA
+23,2,19/06/2021 17:00,Fußball Arena München,Group F,Portugal,NA,NA,NA,NA
+23,2,19/06/2021 17:00,Fußball Arena München,Group F,Germany,NA,NA,NA,NA
+24,2,19/06/2021 20:00,Estadio La Cartuja,Group E,Spain,NA,NA,NA,NA
+24,2,19/06/2021 20:00,Estadio La Cartuja,Group E,Poland,NA,NA,NA,NA
+25,3,20/06/2021 17:00,Olimpico in Rome,Group A,Italy,NA,NA,NA,NA
+25,3,20/06/2021 17:00,Olimpico in Rome,Group A,Wales,NA,NA,NA,NA
+26,3,20/06/2021 17:00,Baki Olimpiya Stadionu,Group A,Switzerland,NA,NA,NA,NA
+26,3,20/06/2021 17:00,Baki Olimpiya Stadionu,Group A,Turkey,NA,NA,NA,NA
+27,3,21/06/2021 17:00,Arena Nationala,Group C,Ukraine,NA,NA,NA,NA
+27,3,21/06/2021 17:00,Arena Nationala,Group C,Austria,NA,NA,NA,NA
+28,3,21/06/2021 17:00,Johan Cruijff ArenA,Group C,North Macedonia,NA,NA,NA,NA
+28,3,21/06/2021 17:00,Johan Cruijff ArenA,Group C,Netherlands,NA,NA,NA,NA
+29,3,21/06/2021 20:00,Saint Petersburg Stadium,Group B,Finland,NA,NA,NA,NA
+29,3,21/06/2021 20:00,Saint Petersburg Stadium,Group B,Belgium,NA,NA,NA,NA
+30,3,21/06/2021 20:00,Parken,Group B,Russia,NA,NA,NA,NA
+30,3,21/06/2021 20:00,Parken,Group B,Denmark,NA,NA,NA,NA
+31,3,22/06/2021 20:00,Wembley Stadium,Group D,Czech Republic,NA,NA,NA,NA
+31,3,22/06/2021 20:00,Wembley Stadium,Group D,England,NA,NA,NA,NA
+32,3,22/06/2021 20:00,Hampden Park,Group D,Croatia,NA,NA,NA,NA
+32,3,22/06/2021 20:00,Hampden Park,Group D,Scotland,NA,NA,NA,NA
+33,3,23/06/2021 17:00,Saint Petersburg Stadium,Group E,Sweden,NA,NA,NA,NA
+33,3,23/06/2021 17:00,Saint Petersburg Stadium,Group E,Poland,NA,NA,NA,NA
+34,3,23/06/2021 17:00,Estadio La Cartuja,Group E,Slovakia,NA,NA,NA,NA
+34,3,23/06/2021 17:00,Estadio La Cartuja,Group E,Spain,NA,NA,NA,NA
+35,3,23/06/2021 20:00,Fußball Arena München,Group F,Germany,NA,NA,NA,NA
+35,3,23/06/2021 20:00,Fußball Arena München,Group F,Hungary,NA,NA,NA,NA
+36,3,23/06/2021 20:00,Puskás Aréna,Group F,Portugal,NA,NA,NA,NA
+36,3,23/06/2021 20:00,Puskás Aréna,Group F,France,NA,NA,NA,NA
+37,Round of 16,26/06/2021 17:00,Johan Cruijff ArenA,NA,2A,NA,NA,NA,NA
+37,Round of 16,26/06/2021 17:00,Johan Cruijff ArenA,NA,2B,NA,NA,NA,NA
+38,Round of 16,26/06/2021 20:00,Wembley Stadium,NA,1A,NA,NA,NA,NA
+38,Round of 16,26/06/2021 20:00,Wembley Stadium,NA,2C,NA,NA,NA,NA
+39,Round of 16,27/06/2021 17:00,Puskás Aréna,NA,1C,NA,NA,NA,NA
+39,Round of 16,27/06/2021 17:00,Puskás Aréna,NA,3D/E/F,NA,NA,NA,NA
+40,Round of 16,27/06/2021 20:00,Estadio La Cartuja,NA,1B,NA,NA,NA,NA
+40,Round of 16,27/06/2021 20:00,Estadio La Cartuja,NA,3A/D/E/F,NA,NA,NA,NA
+41,Round of 16,28/06/2021 17:00,Parken,NA,2D,NA,NA,NA,NA
+41,Round of 16,28/06/2021 17:00,Parken,NA,2E,NA,NA,NA,NA
+42,Round of 16,28/06/2021 20:00,Arena Nationala,NA,1F,NA,NA,NA,NA
+42,Round of 16,28/06/2021 20:00,Arena Nationala,NA,3A/B/C,NA,NA,NA,NA
+43,Round of 16,29/06/2021 17:00,Wembley Stadium,NA,1D,NA,NA,NA,NA
+43,Round of 16,29/06/2021 17:00,Wembley Stadium,NA,2F,NA,NA,NA,NA
+44,Round of 16,29/06/2021 20:00,Hampden Park,NA,1E,NA,NA,NA,NA
+44,Round of 16,29/06/2021 20:00,Hampden Park,NA,3A/B/C/D,NA,NA,NA,NA
+45,Quarter Finals,02/07/2021 17:00,Saint Petersburg Stadium,NA,To be announced,NA,NA,NA,NA
+45,Quarter Finals,02/07/2021 17:00,Saint Petersburg Stadium,NA,To be announced,NA,NA,NA,NA
+46,Quarter Finals,02/07/2021 20:00,Fußball Arena München,NA,To be announced,NA,NA,NA,NA
+46,Quarter Finals,02/07/2021 20:00,Fußball Arena München,NA,To be announced,NA,NA,NA,NA
+47,Quarter Finals,03/07/2021 17:00,Baki Olimpiya Stadionu,NA,To be announced,NA,NA,NA,NA
+47,Quarter Finals,03/07/2021 17:00,Baki Olimpiya Stadionu,NA,To be announced,NA,NA,NA,NA
+48,Quarter Finals,03/07/2021 20:00,Olimpico in Rome,NA,To be announced,NA,NA,NA,NA
+48,Quarter Finals,03/07/2021 20:00,Olimpico in Rome,NA,To be announced,NA,NA,NA,NA
+49,Semi Finals,06/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA
+49,Semi Finals,06/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA
+50,Semi Finals,07/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA
+50,Semi Finals,07/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA
+51,Final,11/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA
+51,Final,11/07/2021 20:00,Wembley Stadium,NA,To be announced,NA,NA,NA,NA

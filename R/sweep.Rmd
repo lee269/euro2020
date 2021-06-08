@@ -9,30 +9,30 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## The draw
 
-```{r sweep}
+```{r sweep, message=FALSE}
 
 library(tibble)
 library(dplyr)
 
 names <- c("Michael Archer", "Matthew Bardrick", "Nick Boase", "Zoe Donkin",
-"Luke Hamilton", "Catharine Hammond", "Eleanor Harris", "Courtney Keane", 
-"Jenny Kemp", "George Koutsoumanis", "David Lee", "Nafisa Mathia", 
-"Molly O'Connor", "Maria Prokopiou", "Nina Sal",
-"Andrew Scaife", "Barsha Sharma", "Christopher Silwood", "Isabella Worth",
-"space1", "space2", "space3", "space4", "space5")  
+           "Luke Hamilton", "Catharine Hammond", "Eleanor Harris", "Courtney Keane", 
+           "Jenny Kemp", "George Koutsoumanis", "David Lee", "Nafisa Mathia", 
+           "Molly O'Connor", "Maria Prokopiou", "Nina Sal",
+           "Andrew Scaife", "Barsha Sharma", "Christopher Silwood", "Isabella Worth",
+           "space1", "space2", "space3", "space4", "space5")  
 
 countries <- c("Italy", "Switzerland", "Turkey", "Wales",
-                    "Belgium", "Russia", "Denmark", "Finland",
-                    "Ukraine", "Netherlands", "Austria", "North Macedonia",
-                    "England", "Croatia", "Czech Republic", "Scotland",
-                    "Spain", "Poland", "Sweden", "Slovakia", 
-                    "Germany", "France", "Portugal", "Hungary")
+               "Belgium", "Russia", "Denmark", "Finland",
+               "Ukraine", "Netherlands", "Austria", "North Macedonia",
+               "England", "Croatia", "Czech Republic", "Scotland",
+               "Spain", "Poland", "Sweden", "Slovakia", 
+               "Germany", "France", "Portugal", "Hungary")
 
 
 seed = 1234567890
 set.seed(seed)
 sweepstakes <- tibble(country = sample(countries),name = names) %>% 
-                arrange(country)
+  arrange(country)
 
 knitr::kable(sweepstakes)
 
@@ -45,12 +45,13 @@ knitr::kable(sweepstakes)
 ```{r groups}
 
 teams <- data.frame(
-             country=c("Turkey", "Italy", "Wales", "Switzerland",
-                       "Denmark", "Finland", "Belgium", "Russia",
-                   "Netherlands", "Ukraine", "Austria", "North Macedonia",
-               "England", "Croatia", "Scotland", "Czech Republic",
-               "Spain", "Sweden", "Poland", "Slovakia",
-                "Hungary", "Portugal", "France", "Germany"),
-             group=rep(LETTERS[1:6], each=4))%>% left_join(sweepstakes)
+  country=c("Turkey", "Italy", "Wales", "Switzerland",
+            "Denmark", "Finland", "Belgium", "Russia",
+            "Netherlands", "Ukraine", "Austria", "North Macedonia",
+            "England", "Croatia", "Scotland", "Czech Republic",
+            "Spain", "Sweden", "Poland", "Slovakia",
+            "Hungary", "Portugal", "France", "Germany"),
+  group=rep(LETTERS[1:6], each=4)) %>% 
+  left_join(sweepstakes)
 
 ```
