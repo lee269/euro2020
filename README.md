@@ -1,3 +1,3 @@
 # FCAT Euro2020 Sweep
 
-A reproducible draw, and maybe eventaully analysis too.
+A reproducible draw, and maybe eventually analysis too.
