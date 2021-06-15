@@ -7,16 +7,16 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 3,1,12/06/2021 17:00,Parken,Group B,awayteam,Finland,1,0,2,0,12
 4,1,12/06/2021 20:00,Saint Petersburg Stadium,Group B,hometeam,Belgium,3,0,0,0,9
 4,1,12/06/2021 20:00,Saint Petersburg Stadium,Group B,awayteam,Russia,0,0,0,0,11
-5,1,13/06/2021 14:00,Wembley Stadium,Group D,hometeam,England,,,,,
-5,1,13/06/2021 14:00,Wembley Stadium,Group D,awayteam,Croatia,,,,,
-6,1,13/06/2021 17:00,Arena Nationala,Group C,hometeam,Austria,,,,,
-6,1,13/06/2021 17:00,Arena Nationala,Group C,awayteam,North Macedonia,,,,,
-7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,hometeam,Netherlands,,,,,
-7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,awayteam,Ukraine,,,,,
-8,1,14/06/2021 14:00,Hampden Park,Group D,hometeam,Scotland,,,,,
-8,1,14/06/2021 14:00,Hampden Park,Group D,awayteam,Czech Republic,,,,,
-9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,hometeam,Poland,,,,,
-9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,awayteam,Slovakia,,,,,
+5,1,13/06/2021 14:00,Wembley Stadium,Group D,hometeam,England,1,0,1,0,9
+5,1,13/06/2021 14:00,Wembley Stadium,Group D,awayteam,Croatia,0,0,3,0,10
+6,1,13/06/2021 17:00,Arena Nationala,Group C,hometeam,Austria,3,0,1,0,13
+6,1,13/06/2021 17:00,Arena Nationala,Group C,awayteam,North Macedonia,1,0,2,0,16
+7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,hometeam,Netherlands,3,0,0,0,8
+7,1,13/06/2021 20:00,Johan Cruijff ArenA,Group C,awayteam,Ukraine,2,0,1,0,8
+8,1,14/06/2021 14:00,Hampden Park,Group D,hometeam,Scotland,0,0,0,0,6
+8,1,14/06/2021 14:00,Hampden Park,Group D,awayteam,Czech Republic,2,0,0,0,6
+9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,hometeam,Poland,1,0,0,1,15
+9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,awayteam,Slovakia,2,0,1,0,13
 10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,hometeam,Spain,,,,,
 10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,awayteam,Sweden,,,,,
 11,1,15/06/2021 17:00,Puskás Aréna,Group F,hometeam,Hungary,,,,,

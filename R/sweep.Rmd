@@ -75,6 +75,7 @@ knitr::kable(draw)
 
 ## The tournament
 
+### Group stages
 I will add some data in here, once:
 
 1. I have some data
@@ -85,7 +86,6 @@ I will add some data in here, once:
 matchdata <- read_csv(here("data", "matchdata.csv"))
 
 matchdata_wide <- matchdata %>% 
-  # mutate(goals = round(runif(102, min = 0, max = 4), digits = 0)) %>% 
   pivot_wider(names_from = homeaway,
               values_from = c(team, goals, penalties, ycards, rcards, fouls)) %>% 
   mutate(points_hometeam = case_when(goals_hometeam > goals_awayteam ~ 3,
@@ -145,7 +145,28 @@ map(groups, league_table)
 
 ```
 
+### Overall standings
 
+```{r overall}
+
+matches %>% 
+  na.omit() %>% 
+  # filter(group == groupname) %>%
+  group_by(team) %>% 
+  summarise(played = n(),
+            goals_for = sum(goals_for),
+            goals_against = sum(goals_against),
+            goals_sum = sum(goals_for) + sum(goals_against),
+            goal_diff = sum(goals_for) - sum(goals_against),
+            ycards = sum(ycards),
+            rcards = sum(rcards),
+            thug_index = sum(rcards) *2 + sum(ycards),
+            fouls = sum(fouls),
+            pts = sum(points)) %>% 
+  arrange(-pts, -goal_diff) %>% knitr::kable(caption = "**Overall standings**")
+
+
+```
 
 
 ```{r sessioninfo}
