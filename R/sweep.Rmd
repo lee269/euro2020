@@ -76,10 +76,7 @@ knitr::kable(draw)
 ## The tournament
 
 ### Group stages
-I will add some data in here, once:
 
-1. I have some data
-2. Ive figured out how to wrangle it
 
 ```{r groups, echo=FALSE, message=FALSE, results='asis'}
 

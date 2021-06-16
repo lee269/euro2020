@@ -17,14 +17,14 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 8,1,14/06/2021 14:00,Hampden Park,Group D,awayteam,Czech Republic,2,0,0,0,6
 9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,hometeam,Poland,1,0,0,1,15
 9,1,14/06/2021 17:00,Saint Petersburg Stadium,Group E,awayteam,Slovakia,2,0,1,0,13
-10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,hometeam,Spain,,,,,
-10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,awayteam,Sweden,,,,,
-11,1,15/06/2021 17:00,Puskás Aréna,Group F,hometeam,Hungary,,,,,
-11,1,15/06/2021 17:00,Puskás Aréna,Group F,awayteam,Portugal,,,,,
-12,1,15/06/2021 20:00,Fußball Arena München,Group F,hometeam,France,,,,,
-12,1,15/06/2021 20:00,Fußball Arena München,Group F,awayteam,Germany,,,,,
-13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,hometeam,Finland,,,,,
-13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,awayteam,Russia,,,,,
+10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,hometeam,Spain,0,0,0,0,7
+10,1,14/06/2021 20:00,Estadio La Cartuja,Group E,awayteam,Sweden,0,0,1,0,11
+11,1,15/06/2021 17:00,Puskás Aréna,Group F,hometeam,Hungary,0,0,2,0,10
+11,1,15/06/2021 17:00,Puskás Aréna,Group F,awayteam,Portugal,3,0,1,0,15
+12,1,15/06/2021 20:00,Fußball Arena München,Group F,hometeam,France,1,0,0,0,7
+12,1,15/06/2021 20:00,Fußball Arena München,Group F,awayteam,Germany,0,0,1,0,10
+13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,hometeam,Finland,0,0,2,0,12
+13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,awayteam,Russia,1,0,3,0,12
 14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,hometeam,Turkey,,,,,
 14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,awayteam,Wales,,,,,
 15,2,16/06/2021 20:00,Olimpico in Rome,Group A,hometeam,Italy,,,,,
