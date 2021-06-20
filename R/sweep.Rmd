@@ -48,6 +48,7 @@ library(dplyr)
 library(here)
 library(readr)
 library(purrr)
+library(reactable)
 
 names <- c("Michael Archer", "Matthew Bardrick", "Nick Boase", "Zoe Donkin",
            "Luke Hamilton", "Catharine Hammond", "Eleanor Harris", "Courtney Keane", 
@@ -133,7 +134,7 @@ matches %>%
             thug_index = sum(rcards) *2 + sum(ycards),
             fouls = sum(fouls),
             pts = sum(points)) %>% 
-  arrange(-pts) %>% knitr::kable(caption = paste0("**",groupname,"**"))
+  arrange(-pts, -goal_diff) %>% knitr::kable(caption = paste0("**",groupname,"**"))
 }
 
 groups <- c("Group A", "Group B", "Group C", "Group D", "Group E", "Group F")
@@ -160,7 +161,8 @@ matches %>%
             thug_index = sum(rcards) *2 + sum(ycards),
             fouls = sum(fouls),
             pts = sum(points)) %>% 
-  arrange(-pts, -goal_diff) %>% knitr::kable(caption = "**Overall standings**")
+  arrange(-pts, -goal_diff) %>% reactable(pagination = FALSE, compact = TRUE)
+
 
 
 ```

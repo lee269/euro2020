@@ -25,22 +25,22 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 12,1,15/06/2021 20:00,Fußball Arena München,Group F,awayteam,Germany,0,0,1,0,10
 13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,hometeam,Finland,0,0,2,0,12
 13,2,16/06/2021 14:00,Saint Petersburg Stadium,Group B,awayteam,Russia,1,0,3,0,12
-14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,hometeam,Turkey,,,,,
-14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,awayteam,Wales,,,,,
-15,2,16/06/2021 20:00,Olimpico in Rome,Group A,hometeam,Italy,,,,,
-15,2,16/06/2021 20:00,Olimpico in Rome,Group A,awayteam,Switzerland,,,,,
-16,2,17/06/2021 14:00,Arena Nationala,Group C,hometeam,Ukraine,,,,,
-16,2,17/06/2021 14:00,Arena Nationala,Group C,awayteam,North Macedonia,,,,,
-17,2,17/06/2021 17:00,Parken,Group B,hometeam,Denmark,,,,,
-17,2,17/06/2021 17:00,Parken,Group B,awayteam,Belgium,,,,,
-18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,hometeam,Netherlands,,,,,
-18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,awayteam,Austria,,,,,
-19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,hometeam,Sweden,,,,,
-19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,awayteam,Slovakia,,,,,
-20,2,18/06/2021 17:00,Hampden Park,Group D,hometeam,Croatia,,,,,
-20,2,18/06/2021 17:00,Hampden Park,Group D,awayteam,Czech Republic,,,,,
-21,2,18/06/2021 20:00,Wembley Stadium,Group D,hometeam,England,,,,,
-21,2,18/06/2021 20:00,Wembley Stadium,Group D,awayteam,Scotland,,,,,
+14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,hometeam,Turkey,0,0,2,0,18
+14,2,16/06/2021 17:00,Baki Olimpiya Stadionu,Group A,awayteam,Wales,2,0,2,0,8
+15,2,16/06/2021 20:00,Olimpico in Rome,Group A,hometeam,Italy,3,0,0,0,10
+15,2,16/06/2021 20:00,Olimpico in Rome,Group A,awayteam,Switzerland,0,0,2,0,12
+16,2,17/06/2021 14:00,Arena Nationala,Group C,hometeam,Ukraine,2,0,1,0,9
+16,2,17/06/2021 14:00,Arena Nationala,Group C,awayteam,North Macedonia,1,0,2,0,9
+17,2,17/06/2021 17:00,Parken,Group B,hometeam,Denmark,1,0,3,0,8
+17,2,17/06/2021 17:00,Parken,Group B,awayteam,Belgium,2,0,1,0,14
+18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,hometeam,Netherlands,2,0,1,0,13
+18,2,17/06/2021 20:00,Johan Cruijff ArenA,Group C,awayteam,Austria,0,0,2,0,9
+19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,hometeam,Sweden,1,0,1,0,16
+19,2,18/06/2021 14:00,Saint Petersburg Stadium,Group E,awayteam,Slovakia,0,0,3,0,7
+20,2,18/06/2021 17:00,Hampden Park,Group D,hometeam,Croatia,1,0,1,0,7
+20,2,18/06/2021 17:00,Hampden Park,Group D,awayteam,Czech Republic,1,0,3,0,12
+21,2,18/06/2021 20:00,Wembley Stadium,Group D,hometeam,England,0,0,0,0,13
+21,2,18/06/2021 20:00,Wembley Stadium,Group D,awayteam,Scotland,0,0,2,0,14
 22,2,19/06/2021 14:00,Puskás Aréna,Group F,hometeam,Hungary,,,,,
 22,2,19/06/2021 14:00,Puskás Aréna,Group F,awayteam,France,,,,,
 23,2,19/06/2021 17:00,Fußball Arena München,Group F,hometeam,Portugal,,,,,
