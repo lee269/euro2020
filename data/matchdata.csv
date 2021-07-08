@@ -95,9 +95,9 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 47,Quarter Finals,03/07/2021 17:00,Baki Olimpiya Stadionu,Quarter final,awayteam,Denmark,2,0,0,0,10
 48,Quarter Finals,03/07/2021 20:00,Olimpico in Rome,Quarter final,hometeam,Ukraine,0,0,0,0,10
 48,Quarter Finals,03/07/2021 20:00,Olimpico in Rome,Quarter final,awayteam,England,4,0,0,0,4
-49,Semi Finals,06/07/2021 20:00,Wembley Stadium,Semi finals,hometeam,Italy,,,,,
-49,Semi Finals,06/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Spain,,,,,
-50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,hometeam,England,,,,,
-50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Denmark,,,,,
-51,Final,11/07/2021 20:00,Wembley Stadium,Final,hometeam,To be announced,,,,,
-51,Final,11/07/2021 20:00,Wembley Stadium,Final,awayteam,To be announced,,,,,
+49,Semi Finals,06/07/2021 20:00,Wembley Stadium,Semi finals,hometeam,Italy,1,4,2,0,17
+49,Semi Finals,06/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Spain,1,2,1,0,18
+50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,hometeam,England,2,0,1,0,10
+50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Denmark,1,0,1,0,21
+51,Final,11/07/2021 20:00,Wembley Stadium,Final,hometeam,Italy,,,,,
+51,Final,11/07/2021 20:00,Wembley Stadium,Final,awayteam,England,,,,,
