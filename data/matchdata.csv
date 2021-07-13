@@ -99,5 +99,5 @@ matchnumber,roundnumber,date,location,group,homeaway,team,goals,penalties,ycards
 49,Semi Finals,06/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Spain,1,2,1,0,18
 50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,hometeam,England,2,0,1,0,10
 50,Semi Finals,07/07/2021 20:00,Wembley Stadium,Semi finals,awayteam,Denmark,1,0,1,0,21
-51,Final,11/07/2021 20:00,Wembley Stadium,Final,hometeam,Italy,,,,,
-51,Final,11/07/2021 20:00,Wembley Stadium,Final,awayteam,England,,,,,
+51,Final,11/07/2021 20:00,Wembley Stadium,Final,hometeam,Italy,1,3,5,0,21
+51,Final,11/07/2021 20:00,Wembley Stadium,Final,awayteam,England,1,2,1,0,13
